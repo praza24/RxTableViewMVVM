@@ -1,0 +1,31 @@
+
+[
+    {
+        "name": "KFC",
+        "cuisine": "american"
+    },
+    {
+        "name": "Pizza Hut",
+        "cuisine": "american"
+    },
+    {
+        "name": "Mcdonalds",
+        "cuisine": "american"
+    },
+    {
+        "name": "Nandos",
+        "cuisine": "european"
+    },
+    {
+        "name": "Dishoom",
+        "cuisine": "indian"
+    },
+    {
+        "name": "Taco Bell",
+        "cuisine": "mexican"
+    },
+    {
+        "name": "Jennys Fish and Chips",
+        "cuisine": "european"
+    }
+]
